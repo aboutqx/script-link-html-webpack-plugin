@@ -1,0 +1,38 @@
+{
+  "name": "script-link-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a plugin of html-webpack-plugin for change script link",
+  "main": "ScriptLinkHtmlWebpackPlugin.js",
+  "scripts": {
+    "prepublish": "npm run test",
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboutqx/script-link-html-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "html",
+    "plugin",
+    "html-webpack-plugin"
+  ],
+  "devDependencies": {
+    "html-webpack-plugin": "^2.16.0",
+    "jasmine": "^2.4.1",
+    "memory-fs": "^0.3.0",
+    "rimraf": "^2.5.2",
+    "semistandard": "^7.0.5",
+    "webpack": "^1.13.0"
+  },
+  "peerDependencies": {
+    "html-webpack-plugin": "^2.0.0 || ^3.0.0",
+    "webpack": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0"
+  },
+  "author": "aboutqx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aboutqx/script-link-html-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/aboutqx/script-link-html-webpack-plugin#readme"
+}
