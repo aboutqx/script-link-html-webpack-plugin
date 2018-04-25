@@ -27,6 +27,6 @@ in webpack production mode
     })
 ```
 
-src in html script tag like '/assets/js/index.js' will be 'http:xxx.com/myassets/js/index.js'.
+src in html script tag like `/assets/js/index.js` will be `http:xxx.com/myassets/js/index.js`.
 
 support tag includes `script`,`link` as defalt ,`img` has to set img flag to true.
