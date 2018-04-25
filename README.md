@@ -8,7 +8,7 @@ You must be running webpack on node 0.12.x or higher
 
 Install the plugin with npm:
 ```shell
-$ npm install --save-dev script-link-html-webpack-plugin
+$ npm i script-link-html-webpack-plugin -D
 ```
 
 Basic Usage
