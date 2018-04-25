@@ -29,4 +29,4 @@ in webpack production mode
 
 src in html script tag like `/assets/js/index.js` will be `http:xxx.com/myassets/js/index.js?v=1522223212`.
 
-support tag includes `script`,`link` as defalt ,`img` has to set img flag to true.
+support tag includes `script`,`link` as defalt ,img tag has to set `img` option to true.
