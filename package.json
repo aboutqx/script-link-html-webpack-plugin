@@ -1,6 +1,6 @@
 {
   "name": "script-link-html-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a plugin of html-webpack-plugin for change script link",
   "main": "ScriptLinkHtmlWebpackPlugin.js",
   "scripts": {
